@@ -1,0 +1,14 @@
+/home/frank/workspace/catkin_ws/install/_setup_util.py
+/home/frank/workspace/catkin_ws/install/env.sh
+/home/frank/workspace/catkin_ws/install/setup.bash
+/home/frank/workspace/catkin_ws/install/local_setup.bash
+/home/frank/workspace/catkin_ws/install/setup.sh
+/home/frank/workspace/catkin_ws/install/local_setup.sh
+/home/frank/workspace/catkin_ws/install/setup.zsh
+/home/frank/workspace/catkin_ws/install/local_setup.zsh
+/home/frank/workspace/catkin_ws/install/.rosinstall
+/home/frank/workspace/catkin_ws/install/lib/pkgconfig/begin.pc
+/home/frank/workspace/catkin_ws/install/share/begin/cmake/beginConfig.cmake
+/home/frank/workspace/catkin_ws/install/share/begin/cmake/beginConfig-version.cmake
+/home/frank/workspace/catkin_ws/install/share/begin/package.xml
+/home/frank/workspace/catkin_ws/install/lib/begin/hello_world
